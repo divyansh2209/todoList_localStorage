@@ -46,9 +46,16 @@ By following these steps, you can validate the core functionalities of the To-Do
    cd my-todo-app
 ## Screenshots
 
+1. **Home Page:**
 ![Home Page](assets/home.png)
+
+2. **Complete Task:**
 ![Complete Task](assets/complete.png)
+
+3. **Search Functionality:**
 ![Search](assets/search.png)
+
+4. **Local Storage:**
 ![Local Storage](assets/local.png)
 
 
